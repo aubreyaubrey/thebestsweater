@@ -8,8 +8,6 @@ outputs = ["Reveal"]
 ---
 
 {{< slide background-image="/images/revolution/she-lit-a-fire-and-now.jpg" >}}
-Text
-{{< soundcloud 8924360 >}}
 
 ---
 
@@ -18,10 +16,6 @@ Text
 ---
 
 {{< slide background-image="/images/revolution/ive-been-through-the-desert-and-ive-been-cross-the-sea.jpg" >}}
-
----
-
-# Clearly Fine
 
 ---
 
@@ -37,5 +31,6 @@ Text
 
 ---
 
-# See?
+# Clearly Fine
+
 
