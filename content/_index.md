@@ -7,27 +7,23 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/revolution/she-lit-a-fire-and-now.jpg" >}}
+{{< slide background-image="/images/revolution/1.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/shes-in-my-every-thought.jpg" >}}
+{{< slide background-image="/images/revolution/2.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/ive-been-through-the-desert-and-ive-been-cross-the-sea.jpg" >}}
+{{< slide background-image="/images/revolution/3.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/and-if-she-leads-then-i-will-follow.jpg" >}}
+{{< slide background-image="/images/revolution/4.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/she-left-no-trail-but-i-cannot-fail-i-will-find-her.jpg" >}}
-
----
-
-{{< slide background-image="/images/revolution/i-have-been-trying-to-find-her-wanna-give-what-i-got.jpg" >}}
+{{< slide background-image="/images/revolution/5.jpg" >}}
 
 ---
 
