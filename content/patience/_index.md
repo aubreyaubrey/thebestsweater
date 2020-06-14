@@ -3,7 +3,6 @@ title = "The Best Sweater"
 outputs = ["Reveal"]
 +++
 
-# Patience is the Essence of Fine Mexican Food
 
 ---
 

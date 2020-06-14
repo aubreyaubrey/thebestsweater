@@ -3,62 +3,49 @@ title = "The Best Sweater"
 outputs = ["Reveal"]
 +++
 
-# Everything is Fine
+
+{{< slide background-image="/images/06_11_20/06_11_20_01.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4440.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_02.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4441.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_03.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4442.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_04.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4443.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_05.jpg" background-size="50% auto" background-position="left" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4444.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_06.jpg" background-size="50% auto" background-position="right" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4445.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_07.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4446.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_08.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4447.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_09.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4448.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_10.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/revolution/4449.jpg" >}}
+{{< slide background-image="/images/06_11_20/06_11_20_11.jpg" background-size="50% auto" background-position="left" >}}
 
----
 
-{{< slide background-image="/images/revolution/4450.jpg" >}}
-
----
-
-{{< slide background-image="/images/revolution/4451.jpg" >}}
-
----
-
-{{< slide background-image="/images/revolution/4452.jpg" >}}
-
----
-
-# Clearly Fine
 
 
