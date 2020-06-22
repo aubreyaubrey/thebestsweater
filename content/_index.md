@@ -3,11 +3,16 @@ title = "The Best Sweater"
 outputs = ["Reveal"]
 +++
 
-{{< slide background-image="/images/06_19_20/06_19_20_01.jpg" >}}
+{{< slide background-image="/images/06_19_20/06_19_20_01.jpg" >}} 
+
+| LAVA FIELDS FOREVER |               |
+| :---                |          ---: |
+|                     | AUBREY J COON |
 
 ---
 
 {{< slide background-image="/images/06_19_20/06_19_20_02.jpg" background-size="50% auto" background-position="left" >}}
+	
 
 ---
 
@@ -40,6 +45,10 @@ outputs = ["Reveal"]
 ---
 
 {{< slide background-image="/images/06_16_20/06_16_20_01.jpg" >}}
+
+| CONTACT  |               |
+| :---     |          ---: |
+|          | yourstruly@thebestsweater.com |
 
 ---
 
@@ -109,6 +118,9 @@ outputs = ["Reveal"]
 
 {{< slide background-image="/images/06_11_20/06_11_20_11.jpg" background-size="50% auto" background-position="left" >}}
 
+---
 
-
+| NO TIME  |               |
+| :---     |          ---: |
+|          | LIKE THE PRESENT |
 
