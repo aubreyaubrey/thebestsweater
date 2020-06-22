@@ -14,4 +14,8 @@
     <loc>http://example.org/</loc>
   </url>
   
+  <url>
+    <loc>http://example.org/patience/</loc>
+  </url>
+  
 </urlset>
