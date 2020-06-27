@@ -126,7 +126,6 @@ outputs = ["Reveal"]
 | :---                |             ---: |
 |                     | *** |
 
-
 ---
 
 {{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_dos.jpg" >}}
@@ -161,7 +160,7 @@ outputs = ["Reveal"]
 
 ---
 
-#### I am on a lonely road and I am traveling * Looking for the key to set me free * Oh the jealousy, the greed is the unraveling * It's the unraveling * And it undoes all the joy that could be * I want to have fun, I want to shine like the sun * I want to be the one that you want to see * I want to knit you a sweater * Want to write you a love letter * I want to make you feel better * I want to make you feel free * I want to make you feel free
+{{< slide background-image="/images/sing_me_to_sleep/I_am_on_a_lonely_road_and_I_am_traveling.jpg" >}}
 
 ---
 
