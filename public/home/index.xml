@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on The Best Sweater</title>
+    <link>http://example.org/home/</link>
+    <description>Recent content in Homes on The Best Sweater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/sunsunsun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/sunsunsun/</guid>
+      <description>HERE COMES THE SUN       ***     Vertical slide 1  Vertical slide 2             ALL I REALLY REALLY WANT       ***                    HOW TO TRAIN YOUR TORNADO       ***               CONTACT       yourstruly@thebestsweater.</description>
+    </item>
+    
+  </channel>
+</rss>

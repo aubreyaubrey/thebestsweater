@@ -1,6 +1,10 @@
 +++
 title = "The Best Sweater"
 outputs = ["Reveal"]
+[reveal_hugo]
+theme = "black"
+margin = 0.2
+custom_css = "css/custom.css"
 +++
 
 {{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_uno.jpg" >}}
@@ -23,11 +27,11 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_cinco.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_cinco.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
-{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_seis.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_seis.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ---
 
@@ -39,7 +43,7 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_nueve.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_nueve.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
@@ -51,7 +55,7 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_dos.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_dos.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 	
 
 ---
@@ -80,7 +84,7 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_nueve.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_nueve.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
@@ -96,15 +100,15 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_tres.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_tres.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
-{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_cuatro.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_cuatro.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ---
 
-{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_cinco.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_cinco.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
@@ -116,53 +120,11 @@ outputs = ["Reveal"]
 
 ---
 
-{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_ocho.jpg" background-size="50% auto" background-position="left" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_uno.jpg" >}}
-
-| HERE COMES THE SUN  |                  |
-| :---                |             ---: |
-|                     | *** |
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_dos.jpg" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_tres.jpg" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_cuatro.jpg" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_cinco.jpg" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_seis.jpg" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_siete.jpg" background-size="50% auto" background-position="left" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_ocho.jpg" background-size="50% auto" background-position="right" >}}
-
----
-
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_nueve.jpg" background-size="50% auto" background-position="left" >}}
+{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_ocho.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
 {{< slide background-image="/images/sing_me_to_sleep/I_am_on_a_lonely_road_and_I_am_traveling.jpg" >}}
-
----
 
 | CONTACT  |               |
 | :---     |          ---: |
