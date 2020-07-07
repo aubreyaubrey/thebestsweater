@@ -2,16 +2,30 @@
 title = "The Best Sweater"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "black"
+custom_theme = "robot-lung.css"
 margin = 0.2
-custom_css = "css/custom.css"
+highlight_theme = "color-brewer"
+transition = "slide"
 +++
 
-{{< slide background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_uno.jpg" >}}
+#### The  
+#### Best  
+#### Sweater    
+By Aubrey J Coon
+
+---
+
+A collection of drawings, poems, notes, questions, tributes, digressions, and recommendations for further exploration.
+
+#### For the Slow of Heart  
+
+---
+
+{{< slide id="aloha_kakahiaka" background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_uno.jpg" >}}
 
 | ALOHA KAKAHIAKA     |               |
 | :---                |          ---: |
-|                     | AUBREY J COON |
+|                     | *** |
 
 ---
 
@@ -47,7 +61,24 @@ custom_css = "css/custom.css"
 
 ---
 
-{{< slide background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_uno.jpg" >}} 
+###### I  
+###### Am  
+###### Aware  
+###### I  
+###### Love  
+###### You  
+###### Too  
+###### Much  
+###### It  
+###### Makes  
+###### Me  
+###### Uncomfortable  
+###### As  
+###### Well
+
+---
+
+{{< slide id="imagine_me_and_you" background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_uno.jpg" >}} 
 
 | IMAGINE ME AND YOU  |               |
 | :---                |          ---: |
@@ -88,7 +119,7 @@ custom_css = "css/custom.css"
 
 ---
 
-{{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_uno.jpg" >}}
+{{< slide id="lava_fields_forever" background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_uno.jpg" >}}
 
 | LAVA FIELDS FOREVER      |                                 |
 | :---                     |                            ---: |
@@ -121,11 +152,3 @@ custom_css = "css/custom.css"
 ---
 
 {{< slide background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_ocho.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/sing_me_to_sleep/I_am_on_a_lonely_road_and_I_am_traveling.jpg" >}}
-
-| CONTACT  |               |
-| :---     |          ---: |
-|          | yourstruly@thebestsweater.com |

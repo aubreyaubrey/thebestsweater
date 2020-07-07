@@ -88,9 +88,9 @@ body {
 
 .reveal {
   font-family: "Roboto Slab", serif;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: normal;
-  color: #363636; }
+  color: #fff; }
 
 ::selection {
   color: #fff;
@@ -120,7 +120,7 @@ body {
   color: #141414;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1;
   letter-spacing: normal;
   text-transform: uppercase;
   text-align: left;
@@ -137,7 +137,7 @@ body {
   font-size: 1.7em; }
 
 .reveal h4 {
-  font-size: 1.4em; }
+  font-size: 4em; }
 
 .reveal h1 {
   text-shadow: none; }

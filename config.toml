@@ -2,7 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "The Best Sweater"
 theme = "reveal-hugo"
-custom_css = "css/custom.css"
 
 [outputFormats.Reveal]
 baseName = "index"

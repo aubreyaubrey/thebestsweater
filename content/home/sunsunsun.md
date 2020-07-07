@@ -2,7 +2,7 @@
 weight = 10
 +++
 
-{{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_uno.jpg" >}}
+{{< slide id="here_comes_the_sun" background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_uno.jpg" >}}
 
 | HERE COMES THE SUN  |                  |
 | :---                |             ---: |

@@ -7,6 +7,26 @@
   </url>
   
   <url>
+    <loc>http://example.org/home/easy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/home/fireworks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/home/tornado/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/home/revolution/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/home/contact/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   

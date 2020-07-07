@@ -16,7 +16,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/home/sunsunsun/</guid>
-      <description>HERE COMES THE SUN       ***     Vertical slide 1  Vertical slide 2             ALL I REALLY REALLY WANT       ***                    HOW TO TRAIN YOUR TORNADO       ***               CONTACT       yourstruly@thebestsweater.</description>
+      <description>    HERE COMES THE SUN       ***            </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/easy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/easy/</guid>
+      <description>    TAKE IT EASY       ***          </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/fireworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/fireworks/</guid>
+      <description>    FIREWORKS IN SPACE       ***           </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/tornado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/tornado/</guid>
+      <description>    HOW TO TRAIN YOUR TORNADO       ***         </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/revolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/revolution/</guid>
+      <description>    REVOLUTION       ***                </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/contact/</guid>
+      <description>    CONTACT       yourstruly@thebestsweater.com    </description>
     </item>
     
   </channel>

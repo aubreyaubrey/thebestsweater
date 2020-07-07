@@ -2,6 +2,21 @@
 weight = 14
 +++
 
+###### I  
+###### Am  
+###### On  
+###### A  
+###### Lonely  
+###### Road  
+###### And  
+###### I   
+###### Am  
+###### Traveling  
+
+*- Joni Mitchell / All I Want*
+
+---
+
 {{< slide id="revolution" background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_tres.jpg" >}}
 
 | REVOLUTION  |                  |
