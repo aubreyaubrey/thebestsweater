@@ -2,66 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on The Best Sweater</title>
-    <link>http://example.org/home/</link>
+    <link>https://thebestsweater.com/home/</link>
     <description>Recent content in Homes on The Best Sweater</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thebestsweater.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/home/sunsunsun/</link>
+      <link>https://thebestsweater.com/home/sunsunsun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/sunsunsun/</guid>
+      <guid>https://thebestsweater.com/home/sunsunsun/</guid>
       <description>    HERE COMES THE SUN       ***            </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/easy/</link>
+      <link>https://thebestsweater.com/home/easy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/easy/</guid>
+      <guid>https://thebestsweater.com/home/easy/</guid>
       <description>    TAKE IT EASY       ***          </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/fireworks/</link>
+      <link>https://thebestsweater.com/home/fireworks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/fireworks/</guid>
+      <guid>https://thebestsweater.com/home/fireworks/</guid>
       <description>    FIREWORKS IN SPACE       ***           </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/tornado/</link>
+      <link>https://thebestsweater.com/home/tornado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/tornado/</guid>
+      <guid>https://thebestsweater.com/home/tornado/</guid>
       <description>    HOW TO TRAIN YOUR TORNADO       ***         </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/revolution/</link>
+      <link>https://thebestsweater.com/home/revolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/revolution/</guid>
-      <description>    REVOLUTION       ***                </description>
+      <guid>https://thebestsweater.com/home/revolution/</guid>
+      <description>I am on a lonely road and I am traveling Looking for the key to set me free
+- Joni Mitchell / All I Want
+    REVOLUTION       ***                </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/home/contact/</link>
+      <link>https://thebestsweater.com/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/home/contact/</guid>
-      <description>    CONTACT       yourstruly@thebestsweater.com    </description>
+      <guid>https://thebestsweater.com/home/contact/</guid>
+      <description>Contact yourstruly@thebestsweater.com</description>
     </item>
     
   </channel>

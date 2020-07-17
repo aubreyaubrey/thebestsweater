@@ -1,5 +1,9 @@
 /**
 
+/*********************************************
+ * This is the file to change!
+ *********************************************/
+
   [ robot-lung ]
 
   A hot pink theme for Reveal.js with Roboto fonts and a colorful border.
@@ -90,7 +94,7 @@ body {
   font-family: "Roboto Slab", serif;
   font-size: 24px;
   font-weight: normal;
-  color: #fff; }
+  color: #f0d9d9; }
 
 ::selection {
   color: #fff;
@@ -147,7 +151,8 @@ body {
  *********************************************/
 .reveal p {
   margin: 20px 0;
-  line-height: 1.3; }
+  line-height: 1.3;
+  color: #f0d9d9; }
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,

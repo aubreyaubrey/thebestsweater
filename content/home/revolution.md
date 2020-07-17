@@ -2,26 +2,14 @@
 weight = 14
 +++
 
-###### I  
-###### Am  
-###### On  
-###### A  
-###### Lonely  
-###### Road  
-###### And  
-###### I   
-###### Am  
-###### Traveling  
+### I am on a lonely road and I am traveling
+### Looking for the key to set me free
 
-*- Joni Mitchell / All I Want*
+*- Joni Mitchell, All I Want*
 
 ---
 
-{{< slide id="revolution" background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_tres.jpg" >}}
-
-| REVOLUTION  |                  |
-| :---                      |             ---: |
-|                           |              *** |
+{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_tres.jpg" >}}
 
 ---
 
@@ -69,4 +57,10 @@ weight = 14
 
 ---
 
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_trese.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
+{{< slide id="revolution" background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_trese.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+
+##### REVOLUTION
+
+*12 x 12"*
+
+*pencil on paper*
