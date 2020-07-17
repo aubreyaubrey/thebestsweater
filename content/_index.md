@@ -76,9 +76,9 @@ A Collection
 
 ---
 
-### He watched me suspiciously as I leafed through the pages, scanning titles and sayings that struck my eye. I can still rememeber the very first words I saw: "*Shiva* without *Shakti* is *Shava*," a gnomic phrase that turned out to be an old Hindu saying.<sup>*</sup>
+### He watched me suspiciously as I leafed through the pages, scanning titles and sayings that struck my eye. I can still rememeber the very first words I saw: "*Shiva* without *Shakti* is *Shava*," a gnomic phrase that turned out to be an old Hindu saying.^
 
-<sup>*</sup> Dr. Haridas Chaudhuri, of San Francisco's California Institute of Asian Studies, my authority on Sanskrit and Indian philosohy, explained that *shava* is the Sanskrit word for corpse. *Shakti* is the creative, female, time-involving, world-manifesting aspect of the Supreme Being. *Shiva* is the God of Destruction, Redemption, and Liberation.
+^ Dr. Haridas Chaudhuri, of San Francisco's California Institute of Asian Studies, my authority on Sanskrit and Indian philosohy, explained that *shava* is the Sanskrit word for corpse. *Shakti* is the creative, female, time-involving, world-manifesting aspect of the Supreme Being. *Shiva* is the God of Destruction, Redemption, and Liberation.
 
 *- Golf in the Kingdom by Michael Murphy*
 
