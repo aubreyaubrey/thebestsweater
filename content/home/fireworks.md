@@ -2,7 +2,7 @@
 weight = 12
 +++
 
-{{< slide id="fireworks_in_space" background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_uno.jpg" >}}
+{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_uno.jpg" >}}
 
 ---
 
@@ -65,15 +65,12 @@ weight = 12
 
 ---
 
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_seis.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+
+{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_seis.jpg" background-size="50% auto" background-position="left"  >}}
 
 ---
 
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_siete.jpg"  >}}
-
----
-
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_ocho.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide id="strings_and_magnets"  background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_ocho.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ##### STRINGS AND MAGNETS
 

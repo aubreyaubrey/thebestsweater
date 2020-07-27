@@ -2,6 +2,13 @@
 weight = 11
 +++
 
+### I can't do what ten people tell me to do
+### So I guess I'll remain the same
+
+*- Otis Redding, (Sittin' On) The Dock of the Bay*
+
+---
+
 {{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_uno.jpg" >}}
 
 ---
@@ -11,13 +18,6 @@ weight = 11
 ---
 
 {{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_tres.jpg" >}}
-
----
-
-### I can't do what ten people tell me to do
-### So I guess I'll remain the same
-
-*- Otis Redding, (Sittin' On) The Dock of the Bay*
 
 ---
 

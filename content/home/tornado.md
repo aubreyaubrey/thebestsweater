@@ -2,15 +2,11 @@
 weight = 13
 +++
 
-{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_uno.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
 ### He held his hand to his chest. "When I was young and he was first a legend, I had the privilege o' playin' with him on many a day. And I wid throw my clubs and shak' my fist at God and scream across the links like a banshee. 'Twas he wha showed me self control.
 
 ---
 
-{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_dos.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_uno.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
@@ -18,7 +14,7 @@ weight = 13
 
 ---
 
-{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_tres.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
+{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_dos.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ---
 
@@ -26,7 +22,7 @@ weight = 13
 
 ---
 
-{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_cuatro.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_tres.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
@@ -34,13 +30,17 @@ weight = 13
 
 ---
 
-{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_cinco.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
+{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_cuatro.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ---
 
 ### I've never forgotten that holy round, the memory o' it haunts me still and settles me after many a rotten hole."
 
 *- Golf in the Kingdom by Michael Murphy*
+
+---
+
+{{< slide background-image="/images/how_to_train_your_tornado/©aubrey_j_coon_how_to_train_your_tornado_cinco.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---
 
