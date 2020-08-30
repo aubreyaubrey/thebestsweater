@@ -1,42 +1,59 @@
 +++
-weight = 11
+weight = 95
 +++
 
-### I can't do what ten people tell me to do
-### So I guess I'll remain the same
-
-*- Otis Redding, (Sittin' On) The Dock of the Bay*
+{{< slide background-image="/images/easy/©aubrey_j_coon_take_it_easy_tres.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_uno.jpg" >}}
+{{< slide background-image="/images/easy/©aubrey_j_coon_take_it_easy_cuatro.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_dos.jpg" >}}
+{{< slide background-image="/images/easy/©aubrey_j_coon_take_it_easy_dos.jpg" >}}
 
 ---
 
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_tres.jpg" >}}
+{{< slide id="take_it_easy" background-image="/images/easy/©aubrey_j_coon_take_it_easy_siete.jpg" background-size="50% auto" background-position="right" >}}
 
----
-
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_cuatro.jpg" >}}
-
----
-
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_cinco.jpg" >}}
-
----
-
-{{< slide background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_seis.jpg" >}}
-
----
-
-{{< slide id="take_it_easy" background-image="/images/take_it_easy/©aubrey_j_coon_take_it_easy_siete.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{% section %}}
 
 ##### TAKE IT EASY
 
 *12 x 12"*
 
 *pencil on paper*
+
+---
+
+Take it easy
+
+---
+
+Don't let the sound of your own wheels 
+
+---
+
+Drive you crazy
+
+---
+
+Lighten up while you still can
+
+--- 
+
+Don't even try 
+
+---
+
+To understand
+
+---
+
+Just find a place to make your stand
+
+---
+
+And take it easy
+
+{{% /section %}}

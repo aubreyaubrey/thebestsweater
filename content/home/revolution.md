@@ -1,23 +1,8 @@
 +++
-weight = 14
+weight = 98
 +++
 
-### I am on a lonely road and I am traveling
-### Looking for the key to set me free
-
-*- Joni Mitchell, All I Want*
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_tres.jpg" >}}
-
----
-
 {{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_dos.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_uno.jpg" >}}
 
 ---
 
@@ -29,38 +14,30 @@ weight = 14
 
 ---
 
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_seis.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_siete.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_ocho.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_nueve.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_diez.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_once.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-{{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_doce.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
-
----
-
 {{< slide id="revolution" background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_trese.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+
+{{% section %}}
 
 ##### REVOLUTION
 
 *12 x 12"*
 
 *pencil on paper*
+
+---
+
+I am on a lonely road 
+
+---
+
+And I am traveling
+
+---
+
+Looking for the key 
+
+---
+
+To set me free
+
+{{% /section %}}

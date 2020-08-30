@@ -40,15 +40,6 @@ Visit [reveal-hugo.dzello.com](https://reveal-hugo.dzello.com/) to see a present
 
 For a full-length blog post about reveal-hugo, checkout [Harness the Power of Static Site Generators to Create Presentations](https://forestry.io/blog/harness-the-power-of-static-to-create-presentations/) on the [Forestry.io blog](https://forestry.io/blog).
 
-### ⚠️ hugo 0.60 compatibility
-
-reveal-hugo doesn't support Goldmark yet, which is Hugo's default markdown parser as of 0.60. To use reveal-hugo with hugo 0.60+ you can set `markdown.defaultMarkdownHandler` to `"blackfriday"` in `config.toml`.
-
-```toml
-[markup]
-defaultMarkdownHandler = "blackfriday"
-```
-
 ### Demos
 
 Jump to the [exampleSite](exampleSite) folder in this repository to see the source code for the above presentation and several more. Here are links to those presentations live:
@@ -60,6 +51,7 @@ Jump to the [exampleSite](exampleSite) folder in this repository to see the sour
 - [template-example](https://reveal-hugo.dzello.com/template-example/) - An example of using the slide shortcode with powerful templates
 - [bundle-example](https://reveal-hugo.dzello.com/bundle-example/) - An example of creating a presentation from one or more markdown files in a leaf bundle
 - [hugo-hl-example](https://reveal-hugo.dzello.com/hugo-hl-example/) - An example of using Hugo's compile-time syntax highlighter
+- [highlightjs-linenumbers-example](https://reveal-hugo.dzello.com/highlightjs-linenumbers-example/) - An example of using the multiline and multi-step capabilities of highlight.js
 
 ### Starter repository
 
@@ -99,6 +91,9 @@ Open `config.toml` and add the following contents:
 
 ```toml
 theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [outputFormats.Reveal]
 baseName = "index"
@@ -276,6 +271,39 @@ Markdown surrounded by the markdown shortcode will not be rendered by Hugo but b
 {{% /markdown %}}
 ```
 
+### MathJax support
+
+Add the following to `layouts/partials/reveal-hugo/body.html`:
+
+```
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+```
+
+Then you can do this in a slide:
+
+```
+## Cool equations
+
+Displayed equations are wrapped in double-\$
+
+$$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$  
+
+Inline equations like $E=mc^2$ are wrapped in single-\$
+```
+
 ### HTML slides
 
 If you need to create fancier HTML for a slide than you can do with markdown, just add `data-noprocess` to the &lt;section&gt; element.
@@ -369,6 +397,23 @@ transition = "zoom"
 ```
 
 See the [extensive list of Reveal.js configuration options](https://github.com/hakimel/reveal.js/#configuration) here.
+
+### Syntax highlighting
+
+Syntax highlighting can be done with Hugo at compile-time or using Reveal.js with the pre-installed highlight.js plugin. Presentations can use both if they wish for different pieces of code.
+
+To do highlighting with Hugo, use the [highlight shortcode](https://gohugo.io/content-management/syntax-highlighting/#highlight-shortcode) and check out the [hugo-hl-example](https://reveal-hugo.dzello.com/hugo-hl-example/) example presentation.
+
+To see an example of highlighting with Reveal.js, checs out the [highlightjs-linenumbers-example](https://reveal-hugo.dzello.com/highlightjs-linenumbers-example/) presentation.
+
+By default, markdown code fences will be processed with Hugo. To turn that off, add this to your `config.toml` file:
+
+``` toml
+[markup.highlight]
+codeFences = false
+```
+
+Now, the code in the fences will be highlighted by highlight.js instead.
 
 ### Custom Reveal.js themes
 
@@ -532,6 +577,7 @@ Find many more on the Reveal.js wiki: [Plugins, tools and hardware](https://gith
 Have you built something with reveal-hugo? Add a link to it here.
 
 - [dzello's Paris Wedding Weekend Guide](https://estelle.and.dzello.com/guide/) ([source](https://github.com/dzello/estelle-and-josh/blob/master/site/content/guide/_index.md))
+- [DevOps Training](https://devops.training.barpilot.io/) ([source](https://github.com/guilhem/devops-training))
 
 
 ## Changelog

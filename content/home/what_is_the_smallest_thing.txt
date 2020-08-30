@@ -1,0 +1,35 @@
++++
+weight = 87
++++
+
+
+{{< slide background-image="/images/what_is_the_smallest_thing/©aubrey_j_coon_what_is_the_smallest_thing_uno.jpg" >}}
+
+---
+
+{{< slide background-image="/images/what_is_the_smallest_thing/©aubrey_j_coon_what_is_the_smallest_thing_dos.jpg" background-size="50% auto" background-position="right" >}}
+
+---
+
+{{< slide background-image="/images/what_is_the_smallest_thing/©aubrey_j_coon_what_is_the_smallest_thing_tres.jpg"  background-size="50% auto" background-position="left" >}}
+
+---
+
+{{< slide id="somewhere" background-image="/images/what_is_the_smallest_thing/©aubrey_j_coon_what_is_the_smallest_thing_cuatro.jpg" background-size="50% auto" background-position="right" >}}
+
+{{% section %}}
+
+##### WHAT IS THE SMALLEST THING?
+
+*12 x 12"*
+
+*pencil on paper*
+
+---
+
+Tick tock,
+
+Butterfly
+
+
+{{% /section %}}

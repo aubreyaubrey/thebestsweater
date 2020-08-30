@@ -1,79 +1,35 @@
 +++
-weight = 12
+weight = 96
 +++
 
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_uno.jpg" >}}
+{{< slide background-image="/images/fireworks/©aubrey_j_coon_fireworks_uno.jpg" >}}
 
 ---
 
-#### How
-#### Do
-#### You
-#### Hold
-#### What
-#### Is
-#### Hot
-#### ?
+{{< slide background-image="/images/fireworks/©aubrey_j_coon_fireworks_tres.jpg" background-size="50% auto" background-position="left" >}}
 
 ---
 
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_dos.jpg" >}}
+{{< slide background-image="/images/fireworks/©aubrey_j_coon_fireworks_cuatro.jpg" >}}
 
 ---
 
-#### Does
-#### It
-#### Matter
-#### ?
+{{< slide id="fireworks"  background-image="/images/fireworks/©aubrey_j_coon_fireworks_ocho.jpg" background-size="50% auto" background-position="right" >}}
 
----
+{{% section %}}
 
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_tres.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
-
----
-
-#### Did
-#### It
-#### Matter
-#### ?
-
----
-
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_cuatro.jpg" >}}
-
----
-
-#### What's
-#### The
-#### Matter
-#### ?
-
----
-
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_cinco.jpg" >}}
-
----
-
-#### What's
-#### At
-#### The
-#### End
-#### Of
-#### The
-#### Rainbow
-#### ?
-
----
-
-
-{{< slide background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_seis.jpg" background-size="50% auto" background-position="left"  >}}
-
----
-
-{{< slide id="strings_and_magnets"  background-image="/images/fireworks_in_space/©aubrey_j_coon_fireworks_ocho.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
-
-##### STRINGS AND MAGNETS
+##### FIREWORKS
 
 *12 x 12"*
 
 *pencil on paper*
+
+---
+
+Quiet
+
+---
+
+Please
+
+{{% /section %}}
