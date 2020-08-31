@@ -14,15 +14,13 @@ weight = 91
 
 ---
 
-{{< slide id="imagine_me_and_you" background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_nueve.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide id="imagine_me_and_you" background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_nueve.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### IMAGINE ME AND YOU
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

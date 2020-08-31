@@ -1,0 +1,38 @@
++++
+weight = 86
++++
+
+
+{{< slide background-image="/images/the_edge/©aubrey_j_coon_the_edge_uno.jpg" >}}
+
+---
+
+{{< slide background-image="/images/the_edge/©aubrey_j_coon_the_edge_dos.jpg" >}}
+
+---
+
+{{< slide background-image="/images/the_edge/©aubrey_j_coon_the_edge_tres.jpg" >}}
+
+---
+
+{{< slide id="the_edge" background-image="/images/the_edge/©aubrey_j_coon_the_edge_cuatro.jpg" background-size="40% auto" background-position="80% 50%" >}}
+
+{{% section %}}
+
+> Pencil on Paper / 12 x 12"
+
+##### THE EDGE
+
+---
+
+I'm tryin'
+
+---
+
+Not to lose
+
+---
+
+My head
+
+{{% /section %}}

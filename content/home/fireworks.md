@@ -14,15 +14,13 @@ weight = 96
 
 ---
 
-{{< slide id="fireworks"  background-image="/images/fireworks/©aubrey_j_coon_fireworks_ocho.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="fireworks"  background-image="/images/fireworks/©aubrey_j_coon_fireworks_ocho.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### FIREWORKS
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

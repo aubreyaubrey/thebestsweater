@@ -15,15 +15,13 @@ weight = 88
 
 ---
 
-{{< slide id="somewhere" background-image="/images/somewhere/©aubrey_j_coon_somewhere_cuatro.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="somewhere" background-image="/images/somewhere/©aubrey_j_coon_somewhere_cuatro.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### SOMEWHERE
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

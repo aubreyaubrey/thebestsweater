@@ -14,15 +14,13 @@ weight = 97
 
 ---
 
-{{< slide id="how_to_train_your_tornado" background-image="/images/tornado/©aubrey_j_coon_how_to_train_your_tornado_seis.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="how_to_train_your_tornado" background-image="/images/tornado/©aubrey_j_coon_how_to_train_your_tornado_seis.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### HOW TO TRAIN YOUR TORNADO
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

@@ -14,15 +14,13 @@ weight = 92
 
 ---
 
-{{< slide id="lava_fields_forever" background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_ocho.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide id="lava_fields_forever" background-image="/images/lava_fields_forever/©aubrey_j_coon_lava_fields_forever_ocho.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### LAVA FIELDS FOREVER
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

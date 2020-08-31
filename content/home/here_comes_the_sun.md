@@ -16,15 +16,13 @@ weight = 89
 
 ---
 
-{{< slide id="here_comes_the_sun" background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_nueve.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
+{{< slide id="here_comes_the_sun" background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_nueve.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### HERE COMES THE SUN
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

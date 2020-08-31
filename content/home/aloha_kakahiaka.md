@@ -15,15 +15,13 @@ weight = 90
 
 ---
 
-{{< slide id="aloha_kakahiaka" background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_nueve.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="aloha_kakahiaka" background-image="/images/aloha_kakahiaka/©aubrey_j_coon_aloha_kakahiaka_nueve.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### ALOHA KAKAHIAKA
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

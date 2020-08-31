@@ -3,7 +3,7 @@ title = "The Best Sweater"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "robot-lung.css"
-margin = 0.2
+margin = 0.1
 highlight_theme = "color-brewer"
 transition = "slide"
 +++

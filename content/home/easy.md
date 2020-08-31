@@ -14,15 +14,13 @@ weight = 95
 
 ---
 
-{{< slide id="take_it_easy" background-image="/images/easy/©aubrey_j_coon_take_it_easy_siete.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="take_it_easy" background-image="/images/easy/©aubrey_j_coon_take_it_easy_siete.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### TAKE IT EASY
-
-*12 x 12"*
-
-*pencil on paper*
 
 ---
 

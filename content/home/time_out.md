@@ -14,15 +14,13 @@ weight = 93
 
 ---
 
-{{< slide id="time_out" background-image="/images/time_out/©aubrey_j_coon_time_out_siete.jpg" background-size="50% auto" background-position="right" >}}
+{{< slide id="time_out" background-image="/images/time_out/©aubrey_j_coon_time_out_siete.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 
+> Pencil on Paper / 12 x 12"
+
 ##### TIME OUT
-
-*12 x 9"*
-
-*pencil on paper*
 
 ---
 
