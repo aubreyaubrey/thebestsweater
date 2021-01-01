@@ -8,7 +8,43 @@ highlight_theme = "color-brewer"
 transition = "slide"
 +++
 
+{{< slide background-image="/images/moonbow/©aubrey_j_coon_moonbow_uno.jpg" >}}
+
+---
+
 {{% section %}}
+
+Run from what’s comfortable. 
+
+---
+
+Forget safety. 
+
+---
+
+Live where you fear to live. 
+
+---
+
+Destroy your reputation. 
+
+---
+
+Be notorious. 
+
+---
+
+I have tried prudent planning long enough. 
+
+---
+
+From now on I’ll be mad.
+
+---
+
+*- Rumi*
+
+---
 
 # The 
 # Best
@@ -18,8 +54,8 @@ By Aubrey J Coon
 
 ---
 
-A Collection
+A Collection 
 
-# For the Slow of Heart  
+# For The Wanderers
 
 {{% /section %}}
