@@ -1,7 +1,10 @@
 +++
-weight = 81
+weight = 87
 +++
 
+{{< slide background-image="/images/moonbow/©aubrey_j_coon_moonbow_uno.jpg" >}}
+
+---
 
 {{< slide background-image="/images/moonbow/©aubrey_j_coon_moonbow_dos.jpg" >}}
 
@@ -15,7 +18,7 @@ weight = 81
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 12 09 2020
 
 ##### MOONBOW
 

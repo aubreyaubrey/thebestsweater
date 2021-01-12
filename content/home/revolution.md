@@ -1,5 +1,5 @@
 +++
-weight = 98
+weight = 96
 +++
 
 {{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_dos.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
@@ -18,7 +18,7 @@ weight = 98
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 01 10 2020
 
 ##### REVOLUTION
 

@@ -1,5 +1,5 @@
 +++
-weight = 93
+weight = 98
 +++
 
 {{< slide background-image="/images/time_out/©aubrey_j_coon_time_out_tres.jpg" background-size="50% auto" background-position="left" >}}
@@ -18,7 +18,7 @@ weight = 93
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 12 11 2019
 
 ##### TIME OUT
 

@@ -18,7 +18,7 @@ weight = 91
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 06 19 2020
 
 ##### IMAGINE ME AND YOU
 

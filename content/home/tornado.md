@@ -18,7 +18,7 @@ weight = 97
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 12 25 2019
 
 ##### HOW TO TRAIN YOUR TORNADO
 

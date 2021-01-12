@@ -18,7 +18,7 @@ weight = 95
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 01 15 2020
 
 ##### TAKE IT EASY
 

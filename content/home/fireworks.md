@@ -1,5 +1,5 @@
 +++
-weight = 96
+weight = 94
 +++
 
 {{< slide background-image="/images/fireworks/©aubrey_j_coon_fireworks_uno.jpg" >}}
@@ -18,7 +18,7 @@ weight = 96
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 02 01 2020
 
 ##### FIREWORKS
 

@@ -1,5 +1,5 @@
 +++
-weight = 82
+weight = 88
 +++
 
 {{< slide background-image="/images/sun_kiss/©aubrey_j_coon_sun_kiss_uno.jpg" >}}
@@ -18,7 +18,7 @@ weight = 82
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 12 01 2020
 
 ##### SUN KISS
 

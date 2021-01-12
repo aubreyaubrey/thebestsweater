@@ -1,5 +1,5 @@
 +++
-weight = 90
+weight = 92
 +++
 
 
@@ -19,7 +19,7 @@ weight = 90
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 06 11 2020
 
 ##### ALOHA KAKAHIAKA
 

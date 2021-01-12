@@ -1,5 +1,5 @@
 +++
-weight = 86
+weight = 89
 +++
 
 
@@ -19,7 +19,7 @@ weight = 86
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 08 23 2020
 
 ##### THE EDGE
 

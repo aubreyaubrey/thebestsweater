@@ -1,5 +1,5 @@
 +++
-weight = 89
+weight = 93
 +++
 
 
@@ -20,7 +20,7 @@ weight = 89
 
 {{% section %}}
 
-> Pencil on Paper / 12 x 12"
+> 03 29 2020
 
 ##### HERE COMES THE SUN
 
