@@ -2,6 +2,9 @@
 weight = 86
 +++
 
+{{< slide background-image="/images/twelve/©aubrey_j_coon_twelve_uno.jpg" >}}
+
+---
 
 {{< slide background-image="/images/twelve/©aubrey_j_coon_twelve_dos.jpg" >}}
 
@@ -34,5 +37,7 @@ All the time
 ---
 
 All the time
+
+---
 
 {{% /section %}}

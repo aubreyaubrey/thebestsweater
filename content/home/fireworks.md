@@ -24,10 +24,16 @@ weight = 94
 
 ---
 
-Quiet
+To the ends of the earth
 
 ---
 
-Please
+would you follow me?
+
+---
+
+There's a world that was meant for our eyes to see
+
+---
 
 {{% /section %}}

@@ -40,4 +40,6 @@ And I say
 
 It's alright
 
+---
+
 {{% /section %}}
