@@ -24,15 +24,31 @@ weight = 98
 
 ---
 
-Tell me what you want
+She's got two-tone everything
 
 ---
 
-What you really
+way too intelligent
 
 ---
 
-Really want
+Moving but she just can't move
+
+---
+
+She's got two phones, everything
+
+---
+
+Boyfriend, telling him 
+
+---
+
+"Find me cause I'll never find you" 
+
+---
+
+FIND YOU
 
 ---
 
