@@ -1,5 +1,5 @@
 +++
-weight = 98
+weight = 99
 +++
 
 {{< slide background-image="/images/time_out/©aubrey_j_coon_time_out_tres.jpg" background-size="50% auto" background-position="left" >}}
@@ -18,7 +18,7 @@ weight = 98
 
 {{% section %}}
 
-> 12 11 2019
+> 12 12 2019
 
 ##### TIME OUT
 
@@ -28,7 +28,7 @@ She's got two-tone everything
 
 ---
 
-way too intelligent
+Way too intelligent
 
 ---
 
@@ -48,7 +48,7 @@ Boyfriend, telling him
 
 ---
 
-FIND YOU
+Find you
 
 ---
 
