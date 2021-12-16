@@ -2,6 +2,9 @@
 weight = 85
 +++
 
+{{< slide background-image="/images/soulshine/©aubrey_j_coon_soulshine_uno.jpg" >}}
+
+---
 
 {{< slide background-image="/images/soulshine/©aubrey_j_coon_soulshine_dos.jpg" background-size="50% auto" background-position="left" >}}
 
