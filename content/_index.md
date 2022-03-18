@@ -8,7 +8,8 @@ highlight_theme = "color-brewer"
 transition = "slide"
 +++
 
-{{< slide background-image="/images/rise_up/©aubrey_j_coon_rise_up_tres.jpg" >}}
+
+{{< slide background-image="/images/the_light_opens_up/the_light_opens_up_and_I_walk_in_by_aubrey_coon.jpg" >}}
 
 ---
 
