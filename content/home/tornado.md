@@ -2,6 +2,12 @@
 weight = 97
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
 {{< slide background-image="/images/tornado/©aubrey_j_coon_how_to_train_your_tornado_uno.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 
 ---

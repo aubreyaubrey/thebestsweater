@@ -2,6 +2,16 @@
 weight = 83
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
+{{< slide background-image="/images/rise_up/©aubrey_j_coon_rise_up_tres.jpg" >}}
+
+---
+
 {{< slide background-image="/images/rise_up/©aubrey_j_coon_rise_up_uno.jpg" background-size="50% auto" background-position="right" background-color="white" >}}
 
 ---
@@ -10,7 +20,7 @@ weight = 83
 
 ---
 
-{{< slide id="twelve" background-image="/images/rise_up/©aubrey_j_coon_rise_up_solamente.jpg" background-size="40% auto" background-position="80% 50%" >}}
+{{< slide id="rise-up" background-image="/images/rise_up/©aubrey_j_coon_rise_up_solamente.jpg" background-size="40% auto" background-position="80% 50%" >}}
 
 {{% section %}}
 

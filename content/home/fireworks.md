@@ -2,6 +2,12 @@
 weight = 94
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
 {{< slide background-image="/images/fireworks/©aubrey_j_coon_fireworks_uno.jpg" >}}
 
 ---

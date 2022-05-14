@@ -2,6 +2,12 @@
 weight = 89
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
 
 {{< slide background-image="/images/the_edge/©aubrey_j_coon_the_edge_uno.jpg" >}}
 

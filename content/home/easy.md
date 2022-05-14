@@ -2,6 +2,12 @@
 weight = 95
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
 {{< slide background-image="/images/easy/©aubrey_j_coon_take_it_easy_tres.jpg" >}}
 
 ---

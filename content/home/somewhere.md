@@ -2,6 +2,11 @@
 weight = 90
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
 
 {{< slide background-image="/images/somewhere/©aubrey_j_coon_somewhere_uno.jpg" >}}
 

@@ -2,6 +2,12 @@
 weight = 88
 +++
 
+##### [MAIN MENU](#main_menu)
+
+Or click right to keep browsing.
+
+---
+
 {{< slide background-image="/images/sun_kiss/©aubrey_j_coon_sun_kiss_uno.jpg" >}}
 
 ---
