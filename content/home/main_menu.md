@@ -21,7 +21,7 @@ Click right to browse.
 
 ---
 
-[Sunkiss](#sunkiss) / Pencil on Paper / 12" x 12"  
+[Sun Kiss](#sun_kiss) / Pencil on Paper / 12" x 12"  
 [The Edge](#the_edge) / Pencil on Paper / 12" x 12"  
 [Somewhere](#somewhere) / Pencil on Paper / 12" x 12"  
 [Imagine Me And You](#imagine_me_and_you) / Pencil on Paper / 12" x 12"    
