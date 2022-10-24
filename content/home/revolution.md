@@ -2,11 +2,6 @@
 weight = 96
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/revolution/©aubrey_j_coon_all_i_really_really_want_dos.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 

@@ -2,11 +2,6 @@
 weight = 93
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/here_comes_the_sun/©aubrey_j_coon_here_comes_the_sun_tres.jpg" >}}
 

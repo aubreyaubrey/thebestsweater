@@ -2,11 +2,6 @@
 weight = 99
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/time_out/©aubrey_j_coon_time_out_tres.jpg" background-size="50% auto" background-position="left" >}}
 

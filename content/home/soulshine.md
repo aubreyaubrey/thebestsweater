@@ -2,11 +2,6 @@
 weight = 85
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/soulshine/©aubrey_j_coon_soulshine_uno.jpg" >}}
 

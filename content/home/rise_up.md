@@ -2,11 +2,6 @@
 weight = 83
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/rise_up/©aubrey_j_coon_rise_up_tres.jpg" >}}
 

@@ -2,11 +2,6 @@
 weight = 84
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/north/©aubrey_j_coon_north_uno.jpg" background-size="50% auto" background-position="left" background-color="white" >}}
 

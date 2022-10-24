@@ -2,11 +2,6 @@
 weight = 98
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/aurora/©aubrey_j_coon_aurora_uno.jpg" >}}
 

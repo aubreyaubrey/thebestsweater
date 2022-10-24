@@ -2,11 +2,6 @@
 weight = 86
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide background-image="/images/twelve/©aubrey_j_coon_twelve_uno.jpg" >}}
 

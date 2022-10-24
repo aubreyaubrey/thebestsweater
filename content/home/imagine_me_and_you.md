@@ -2,11 +2,6 @@
 weight = 91
 +++
 
-##### [MAIN MENU](#main_menu)
-
-Or click right to keep browsing.
-
----
 
 {{< slide id="imagine_me_and_you" background-image="/images/imagine_me_and_you/©aubrey_j_coon_imagine_me_and_you_uno.jpg" >}} 
 	
