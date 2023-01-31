@@ -8,7 +8,7 @@ highlight_theme = "color-brewer"
 transition = "slide"
 +++
 
-{{< slide background-image="/images/sailing_the_celestial_seas/sailing_the_celestial_seas_by_aubrey_coon_detail1.jpg" >}}
+{{< slide background-image="/images/staring_at_the_sun/dont_stare_at_the_sun_one.jpg" >}}
 
 ---
 
