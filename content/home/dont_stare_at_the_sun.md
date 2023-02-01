@@ -40,7 +40,11 @@ Blinded by the thought of us, so
 
 ---
 
-Give me a chance I will fuck up again
+Give me a chance 
+
+---
+
+I will fuck up again
 
 ---
 
@@ -48,6 +52,10 @@ I warned you in advance
 
 ---
 
-But you just keep on staring at the Sun
+But you just keep on 
+
+---
+
+staring at the Sun
 
 {{% /section %}}
