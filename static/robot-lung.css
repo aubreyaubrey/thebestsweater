@@ -130,7 +130,8 @@ body {
 
 .reveal h1 {
   font-size: 4em;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  color: #000; }
 
 .reveal h2 {
   font-size: 2.6em; }

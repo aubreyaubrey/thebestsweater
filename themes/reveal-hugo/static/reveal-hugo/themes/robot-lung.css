@@ -132,7 +132,8 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.6em; }
+  font-size: 2.6em; 
+  color: #000; }
 
 .reveal h2 {
   font-size: 2.2em; }
