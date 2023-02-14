@@ -2,6 +2,10 @@
 weight = 81
 +++
 
+{{< slide background-image="/images/sailing_the_celestial_seas/sailing_the_celestial_seas_by_aubrey_coon_detail1.jpg" >}}
+
+---
+
 {{< slide background-image="/images/sailing_the_celestial_seas/sailing_the_celestial_seas_by_aubrey_coon_detail2.jpg" >}}
 
 ---

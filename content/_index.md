@@ -1,6 +1,8 @@
 +++
 title = "The Best Sweater"
 outputs = ["Reveal"]
+[logo]
+src = "heart.png"
 [reveal_hugo]
 custom_theme = "robot-lung.css"
 margin = 0.1
@@ -8,7 +10,31 @@ highlight_theme = "color-brewer"
 transition = "slide"
 +++
 
-{{< slide background-image="/images/staring_at_the_sun/dont_stare_at_the_sun_one.jpg" >}}
+by
+
+# Aubrey Coon
+
+### A Collection for the Wanderers
+
+---
+
+### ---
+
+### Browse by Series
+
+[Hyperspace](/#/3)
+
+[In Which Winter Obscures The Will To Live](/will_to_live)
+
+[At Home In The Void](/at_home_in_the_void) 
+
+[Pep Talks With Dave](/pep_talks_with_dave)
+
+### ---
+ 
+### Send a Note
+
+aubrey@thebestsweater.com
 
 ---
 
@@ -43,20 +69,6 @@ From now on I’ll be mad.
 ---
 
 *- Rumi*
-
----
-
-# The 
-# Best
-# Sweater
-    
-By Aubrey J Coon
-
----
-
-A Collection 
-
-# For The Wanderers
 
 ---
 
