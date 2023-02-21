@@ -13,8 +13,6 @@ weight = 3
 
 ---
 
----
-
 {{% /section %}}
 
 {{< slide background-image="/images/trust_yourself/trust_yourself_by_aubrey_coon_detail_1.JPG" background-size="auto 70%" background-position="left" background-color="white" >}}
