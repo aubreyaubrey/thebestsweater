@@ -24,7 +24,7 @@ by
 
 [Hyperspace](/#/3)
 
-[In Which Winter Obscures The Will To Live](/will_to_live)
+[Winter Sun](/winter_sun)
 
 [At Home In The Void](/at_home_in_the_void) 
 

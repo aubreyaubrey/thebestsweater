@@ -1,5 +1,5 @@
 +++
-title = "In Which Winter Obscures The Will To Live"
+title = "Winter Sun"
 outputs = ["Reveal"]
 [logo]
 src = "heart.png"
@@ -8,5 +8,5 @@ custom_theme = "robot-lung.css"
 margin = 0.2
 +++
 
-# In Which Winter Obscures The Will To Live
+# Winter Sun
 
