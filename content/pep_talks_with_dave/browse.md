@@ -2,13 +2,17 @@
 weight = 100
 +++
 
+# Fluff and Jetsam
+
+### by Aubrey Coon
+
 ### ---
 
 ### Browse by Series
 
-[Hyperspace](/#/3)
+[Hyperspace](/home)
 
-[In Which Winter Obscures The Will To Live](/will_to_live)
+[Winter Sun](/winter_sun)
 
 [At Home In The Void](/at_home_in_the_void) 
 
@@ -18,4 +22,4 @@ weight = 100
  
 ### Send a Note
 
-aubrey@thebestsweater.com
+aubrey.coon@protonmail.com

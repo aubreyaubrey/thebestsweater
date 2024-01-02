@@ -10,19 +10,34 @@ highlight_theme = "color-brewer"
 transition = "slide"
 +++
 
-by
 
-# Aubrey Coon
+Run from what’s comfortable. 
 
-### A Collection for the Wanderers
+Forget safety. 
+
+Live where you fear to live. 
+
+Destroy your reputation. 
+
+Be notorious. 
+
+I have tried prudent planning long enough. 
+
+From now on I’ll be mad.
+
+*- Rumi*
 
 ---
+
+# Fluff and Jetsam
+
+### by Aubrey Coon
 
 ### ---
 
 ### Browse by Series
 
-[Hyperspace](/#/3)
+[Hyperspace](/home)
 
 [Winter Sun](/winter_sun)
 
@@ -34,42 +49,4 @@ by
  
 ### Send a Note
 
-aubrey@thebestsweater.com
-
----
-
-{{% section %}}
-
-Run from what’s comfortable. 
-
----
-
-Forget safety. 
-
----
-
-Live where you fear to live. 
-
----
-
-Destroy your reputation. 
-
----
-
-Be notorious. 
-
----
-
-I have tried prudent planning long enough. 
-
----
-
-From now on I’ll be mad.
-
----
-
-*- Rumi*
-
----
-
-{{% /section %}}
+aubrey.coon@protonmail.com

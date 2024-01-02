@@ -1,6 +1,6 @@
-baseURL = "https://thebestsweater.com/"
+baseURL = "https://fluffandjetsam.com/"
 languageCode = "en-us"
-title = "The Best Sweater"
+title = "Fluff and Jetsam"
 
 theme = "reveal-hugo"
 
