@@ -1,5 +1,5 @@
 +++
-title = "The Best Sweater"
+title = "Fluff and Jetsam"
 outputs = ["Reveal"]
 [logo]
 src = "heart.png"
